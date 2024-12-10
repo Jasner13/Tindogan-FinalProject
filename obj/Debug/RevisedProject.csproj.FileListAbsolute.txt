@@ -1,0 +1,39 @@
+C:\Trial Project\RevisedProject\obj\Debug\RevisedProject.csproj.AssemblyReference.cache
+C:\Trial Project\RevisedProject\obj\Debug\RevisedProject.csproj.CoreCompileInputs.cache
+C:\Trial Project\RevisedProject\bin\Debug\RevisedProject.exe.config
+C:\Trial Project\RevisedProject\bin\Debug\RevisedProject.exe
+C:\Trial Project\RevisedProject\bin\Debug\RevisedProject.pdb
+C:\Trial Project\RevisedProject\obj\Debug\RevisedProject.exe
+C:\Trial Project\RevisedProject\obj\Debug\RevisedProject.pdb
+Z:\L64Y07W14\Tindogan-FinalProject\bin\Debug\RevisedProject.exe.config
+Z:\L64Y07W14\Tindogan-FinalProject\bin\Debug\RevisedProject.exe
+Z:\L64Y07W14\Tindogan-FinalProject\bin\Debug\RevisedProject.pdb
+Z:\L64Y07W14\Tindogan-FinalProject\obj\Debug\RevisedProject.csproj.AssemblyReference.cache
+Z:\L64Y07W14\Tindogan-FinalProject\obj\Debug\RevisedProject.csproj.CoreCompileInputs.cache
+Z:\L64Y07W14\Tindogan-FinalProject\obj\Debug\RevisedProject.exe
+Z:\L64Y07W14\Tindogan-FinalProject\obj\Debug\RevisedProject.pdb
+C:\Tindogan-FinalProject-20241112T021037Z-001\Tindogan-FinalProject\bin\Debug\RevisedProject.exe.config
+C:\Tindogan-FinalProject-20241112T021037Z-001\Tindogan-FinalProject\bin\Debug\RevisedProject.exe
+C:\Tindogan-FinalProject-20241112T021037Z-001\Tindogan-FinalProject\bin\Debug\RevisedProject.pdb
+C:\Tindogan-FinalProject-20241112T021037Z-001\Tindogan-FinalProject\obj\Debug\RevisedProject.csproj.AssemblyReference.cache
+C:\Tindogan-FinalProject-20241112T021037Z-001\Tindogan-FinalProject\obj\Debug\RevisedProject.csproj.CoreCompileInputs.cache
+C:\Tindogan-FinalProject-20241112T021037Z-001\Tindogan-FinalProject\obj\Debug\RevisedProject.exe
+C:\Tindogan-FinalProject-20241112T021037Z-001\Tindogan-FinalProject\obj\Debug\RevisedProject.pdb
+C:\Tindogan-FinalProject-20241112T021037Z-001\Tindogan-FinalProject(Incr.3)\bin\Debug\RevisedProject.exe.config
+C:\Tindogan-FinalProject-20241112T021037Z-001\Tindogan-FinalProject(Incr.3)\bin\Debug\RevisedProject.exe
+C:\Tindogan-FinalProject-20241112T021037Z-001\Tindogan-FinalProject(Incr.3)\bin\Debug\RevisedProject.pdb
+C:\Tindogan-FinalProject-20241112T021037Z-001\Tindogan-FinalProject(Incr.3)\obj\Debug\RevisedProject.csproj.AssemblyReference.cache
+C:\Tindogan-FinalProject-20241112T021037Z-001\Tindogan-FinalProject(Incr.3)\obj\Debug\RevisedProject.csproj.CoreCompileInputs.cache
+C:\Tindogan-FinalProject-20241112T021037Z-001\Tindogan-FinalProject(Incr.3)\obj\Debug\RevisedProject.exe
+C:\Tindogan-FinalProject-20241112T021037Z-001\Tindogan-FinalProject(Incr.3)\obj\Debug\RevisedProject.pdb
+C:\Tindogan-FinalProject-20241112T021037Z-001\Tindogan-FinalProject(Incr.3)\bin\Debug\Spectre.Console.dll
+C:\Tindogan-FinalProject-20241112T021037Z-001\Tindogan-FinalProject(Incr.3)\bin\Debug\System.Buffers.dll
+C:\Tindogan-FinalProject-20241112T021037Z-001\Tindogan-FinalProject(Incr.3)\bin\Debug\System.Memory.dll
+C:\Tindogan-FinalProject-20241112T021037Z-001\Tindogan-FinalProject(Incr.3)\bin\Debug\System.Numerics.Vectors.dll
+C:\Tindogan-FinalProject-20241112T021037Z-001\Tindogan-FinalProject(Incr.3)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Tindogan-FinalProject-20241112T021037Z-001\Tindogan-FinalProject(Incr.3)\bin\Debug\Spectre.Console.xml
+C:\Tindogan-FinalProject-20241112T021037Z-001\Tindogan-FinalProject(Incr.3)\bin\Debug\System.Buffers.xml
+C:\Tindogan-FinalProject-20241112T021037Z-001\Tindogan-FinalProject(Incr.3)\bin\Debug\System.Memory.xml
+C:\Tindogan-FinalProject-20241112T021037Z-001\Tindogan-FinalProject(Incr.3)\bin\Debug\System.Numerics.Vectors.xml
+C:\Tindogan-FinalProject-20241112T021037Z-001\Tindogan-FinalProject(Incr.3)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Tindogan-FinalProject-20241112T021037Z-001\Tindogan-FinalProject(Incr.3)\obj\Debug\RevisedP.A0A82BE1.Up2Date
